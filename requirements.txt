@@ -1,4 +1,3 @@
 flask
 google.generativeai
 flask_cors
-google
